@@ -1,0 +1,13 @@
+{
+    "name": "mike/php-5-1",
+    "description": "My homework for task 5.1",
+    "authors": [
+        {
+            "name": "Mike",
+            "email": "mihail-orlenko@mail.ru"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
